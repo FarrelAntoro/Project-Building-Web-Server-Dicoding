@@ -1,10 +1,10 @@
-# Proyek-Membangun-Web-Server
+# Project-Building-Web-Server
 
-Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
+To run this project, make sure `npm` is installed on your computer/laptop.
 
 ---
 
-Tata cara menjalankan project:
+Procedure for running the project:
 
 1. Install node modules
 
@@ -12,7 +12,7 @@ Tata cara menjalankan project:
 npm install
 ```
 
-2. Jalankan project
+2. Run the project
 
 ```
 npm run start
